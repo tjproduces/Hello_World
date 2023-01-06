@@ -2,7 +2,7 @@
 
 The most basic of basic programs, our classic *Hello World*!
 
-{Describe your purpose for creating this software.}
+Software purpose is to refamiliarize myself with basic C++ syntax.
 
 [Software Demo Video](https://youtu.be/r-mPTgJ1fvg)
 
